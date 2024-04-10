@@ -1,12 +1,12 @@
-#ignore all class files
+#Ignore all class files
 
 *.class
 
-#ignore all setting files
+#Ignore all setting files
 
 *.setting
 
-#ignore all project files
+#Ignore all project files
 
 *.project
 
